@@ -5,7 +5,7 @@ tags: [home]
 
 # Benvenuto nel sito di test
 
-Questo è il sito di prova per verificare che Quartz funzioni correttamente.
+Questo è il sito di prova per verificare che Quartz funzioni correttamente. Anche lo script bat.
 
 ## Sezioni
 
